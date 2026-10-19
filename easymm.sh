@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#--version by eric
 # --- 脚本配置 ---
 # 定义备用 Github 代理节点池
 GITHUB_PROXIES=(
