@@ -1,0 +1,1 @@
+PowerShell -ExecutionPolicy Bypass -File  D:\easytier\easytier.ps1
